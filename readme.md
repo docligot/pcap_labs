@@ -4,17 +4,17 @@ This repository contains courseware for the class Analyzing Logs Data With AI fo
 
 # Contents
 
-* Lecture slides
-* PCAP Converter Notebook
-* Exercise 1
-* Exercise 2
-* Exercise 3
+* [Lecture slides](https://github.com/docligot/pcap_labs/tree/main/lecture%20slides)
+* [PCAP Converter Notebook](https://github.com/docligot/pcap_labs/tree/main/notebook)
+* [Exercise 1](https://github.com/docligot/pcap_labs/tree/main/exercise%201)
+* [Exercise 2](https://github.com/docligot/pcap_labs/tree/main/exercise%202)
+* [Exercise 3](https://github.com/docligot/pcap_labs/tree/main/exercise%203)
 
 # Author and license
 
 This repository is provided under the terms of the CC-4-BY License. 
 
-For questions, contact the author: Dominic Ligot
+For questions, contact the author: [Dominic Ligot](https://docligot.com)
 
 # License 
 
