@@ -16,7 +16,7 @@ This repository is provided under the terms of the CC-4-BY License.
 
 For questions, contact the author: [Dominic Ligot](https://docligot.com)
 
-PCAP Exercises from: [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/about.html)
+PCAP Log Data from: [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/about.html)
 
 # License 
 
