@@ -1,0 +1,51 @@
+=== Network Traffic Analysis Report ===
+
+Basic Statistics:
+total_packets: 18189
+unique_ips: 75
+unique_connections: 141
+avg_packet_size: 644.4309145129224
+duration_seconds: 1962.204948
+
+Top Talkers:
+
+Top Source IPs:
+10.8.15.133: 6646 packets
+104.21.55.70: 2013 packets
+72.5.43.29: 1653 packets
+23.220.103.8: 1142 packets
+23.220.103.18: 1075 packets
+10.8.15.4: 1047 packets
+172.67.170.159: 1021 packets
+23.220.103.72: 496 packets
+204.79.197.203: 415 packets
+20.42.72.131: 222 packets
+
+Protocol Distribution:
+UDP: 2722 packets
+Unknown (2): 8 packets
+TCP: 15367 packets
+ICMP: 11 packets
+
+Most Used Ports:
+443 (HTTPS): 9731 occurrences
+80 (HTTP): 6011 occurrences
+49785 (PORT-49785): 2268 occurrences
+49800 (PORT-49800): 1143 occurrences
+63563 (PORT-63563): 1082 occurrences
+49754 (PORT-49754): 706 occurrences
+389 (PORT-389): 599 occurrences
+61658 (PORT-61658): 590 occurrences
+49819 (PORT-49819): 453 occurrences
+53 (DNS): 419 occurrences
+
+Potential Anomalies:
+- Potential port scan from 72.5.43.29 (306 ports)
+- High traffic volume between 10.8.15.133 and 10.8.15.4
+- High traffic volume between 10.8.15.4 and 10.8.15.133
+- High traffic volume between 23.220.103.18 and 10.8.15.133
+- High traffic volume between 23.220.103.8 and 10.8.15.133
+- High traffic volume between 104.21.55.70 and 10.8.15.133
+- High traffic volume between 172.67.170.159 and 10.8.15.133
+- High traffic volume between 10.8.15.133 and 72.5.43.29
+- High traffic volume between 72.5.43.29 and 10.8.15.133

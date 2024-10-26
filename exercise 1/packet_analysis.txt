@@ -1,0 +1,40 @@
+=== Network Traffic Analysis Report ===
+
+Basic Statistics:
+total_packets: 5091
+unique_ips: 42
+unique_connections: 77
+avg_packet_size: 423.1392537002293
+duration_seconds: 3576.159984
+
+Top Talkers:
+
+Top Source IPs:
+172.17.0.99: 2358 packets
+172.17.0.17: 611 packets
+46.254.34.201: 504 packets
+79.124.78.197: 261 packets
+23.45.119.144: 199 packets
+23.221.24.69: 147 packets
+204.79.197.203: 144 packets
+23.221.24.58: 91 packets
+52.113.194.132: 73 packets
+23.195.212.189: 37 packets
+
+Protocol Distribution:
+UDP: 575 packets
+TCP: 4222 packets
+
+Most Used Ports:
+443 (HTTPS): 2793 occurrences
+80 (HTTP): 654 occurrences
+49815 (PORT-49815): 522 occurrences
+389 (PORT-389): 369 occurrences
+445 (PORT-445): 313 occurrences
+49806 (PORT-49806): 260 occurrences
+64936 (PORT-64936): 215 occurrences
+53 (DNS): 173 occurrences
+49668 (PORT-49668): 156 occurrences
+49785 (PORT-49785): 156 occurrences
+
+Potential Anomalies:
