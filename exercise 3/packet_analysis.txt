@@ -1,0 +1,43 @@
+=== Network Traffic Analysis Report ===
+
+Basic Statistics:
+total_packets: 11562
+unique_ips: 45
+unique_connections: 83
+avg_packet_size: 983.3615471338132
+duration_seconds: 585.662377
+
+Top Talkers:
+
+Top Source IPs:
+199.232.196.209: 6085 packets
+172.16.1.66: 2578 packets
+172.16.1.4: 805 packets
+185.199.110.133: 582 packets
+141.98.10.79: 205 packets
+23.52.9.222: 121 packets
+23.198.7.175: 120 packets
+204.79.197.203: 118 packets
+23.48.203.208: 108 packets
+23.198.7.177: 96 packets
+
+Protocol Distribution:
+UDP: 243 packets
+Unknown (2): 9 packets
+TCP: 11276 packets
+ICMP: 3 packets
+
+Most Used Ports:
+443 (HTTPS): 9345 occurrences
+49752 (PORT-49752): 3317 occurrences
+49753 (PORT-49753): 2051 occurrences
+49751 (PORT-49751): 1172 occurrences
+49750 (PORT-49750): 655 occurrences
+49754 (PORT-49754): 411 occurrences
+12132 (PORT-12132): 411 occurrences
+445 (PORT-445): 401 occurrences
+389 (PORT-389): 391 occurrences
+88 (PORT-88): 304 occurrences
+
+Potential Anomalies:
+- High traffic volume between 199.232.196.209 and 172.16.1.66
